@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.com/Edx25sub/Script-Hellmet-Roblox/blob/main/Script.lua"))()
